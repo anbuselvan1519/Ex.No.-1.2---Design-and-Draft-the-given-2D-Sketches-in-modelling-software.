@@ -37,6 +37,7 @@
 
  ## OUTPUT
  
- 
+ ![Uploading ROSH.S_page-0001.jpg…]()
+
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
